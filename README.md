@@ -1,5 +1,5 @@
 # MOTOR_DIRCTION_SPEED_CONTROL_WITH_SWITCH
-Alright Krishnaveni 🌸, let’s break down your **motor control milestones** into clear implementation steps so you can code and test them one by one.
+Let’s break down **motor control milestones** into clear implementation steps so you can code and test them one by one.
 
 ---
 
