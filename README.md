@@ -52,9 +52,3 @@ Let’s break down **motor control milestones** into clear implementation steps 
 - Wrap around after 100% back to 25%.
 
 ---
-
-
-
-
-Would you like me to now **expand this pseudocode into actual C code for PSoC Creator APIs** (with `PWM_Start()`, `PWM_WriteCompare()`, `CyDelay()` etc.), so you can directly compile and test it?
-
